@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav-list {
+  display: flex;
+}
+
+.nav-list li {
+  margin: 0 2rem;
+  list-style: none;
+  cursor: pointer;
+}
+
+.nav-list li:hover {
+  color: #38bdf8;
+}
